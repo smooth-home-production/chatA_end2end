@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Kebijakan Privasi
 
-You can use the [editor on GitHub](https://github.com/smooth-home-production/chatA_end2end/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Informasi yang Kami Kumpulkan
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+kami sama sekali tidak mengumpulkan data anda dalam bentuk apapun. Anda akan melakukan login sebagai anonim tanpa pengambilan data untuk mengunakan layanan kami.
+  
+### Informasi yang Anda Sediakan
 
-### Markdown
+Anda akan melakukan login sebagai anonim tanpa pengambilan data untuk mengunakan layanan kami.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Anda dapat menganti nama panggilan secara lokal untuk info profil anda.
 
-```markdown
-Syntax highlighted code block
+Kami tidak menyimpan pesan-pesan Anda secara umum dalam kaitannya untuk menyediakan Layanan kami bagi Anda. Melainkan, pesan Anda disimpan pada perangkat dan umumnya tidak disimpan di server kami. Setelah pesan Anda dikirim, pesan Anda dihapus dari server kami. Skenario berikut menerangkan situasi di mana kami mungkin menyimpan pesan Anda saat proses pengiriman pesan:
 
-# Header 1
-## Header 2
-### Header 3
+* Pesan yang Tidak Tersampaikan. Jika pesan tidak dapat tersampaikan dengan segera (misalnya, jika penerima sedang offline), kami menyimpannya dalam bentuk terenkripsi di server kami selama hingga 30 hari sambil berusaha mengirimkannya. Jika pesan masih belum terkirim setelah 30 hari, maka kami akan menghapusnya.
+* Kami menawarkan enkripsi end-to-end untuk Layanan kami. Enkripsi end-to-end berarti bahwa pesan Anda terenkripsi untuk menjaga agar kami dan pihak ketiga tidak dapat membacanya.
+        
+### Informasi yang Dikumpulkan secara Otomatis
 
-- Bulleted
-- List
+Kami mengumpulkan informasi mengenai aktivitas Anda di Layanan kami. Ini mencakup informasi mengenai aktivitas Anda (termasuk pesan dan kiriman). Informasi tersebut akan tersimpan secara lokal untuk menunjang layanan kami.
+  
+### Cara Kami Menggunakan Informasi
 
-1. Numbered
-2. List
+Kami menggunakan informasi yang kami miliki (tunduk dengan pilihan yang Anda buat dan hukum yang berlaku) untuk menjalankan, menyediakan, meningkatkan, memahami, menyesuaikan, mendukung, dan memasarkan Layanan kami.
+  
+### Informasi yang Anda Bagikan
 
-**Bold** and _Italic_ and `Code` text
+Kirim Informasi Anda kepada Orang-Orang yang Anda Pilih untuk Berkomunikasi dengan Anda. Anda membagikan informasi Anda (termasuk pesan) saat menggunakan dan berkomunikasi melalui Layanan kami.
 
-[Link](url) and ![Image](src)
-```
+Informasi yang Terkait dengan Akun Anda. nama profil dan laporan pesan tersedia bagi siapa pun yang menggunakan Layanan kami, dan tersimpan secara lokal tanpa pantauan atau pengawasan kami.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Anda dapat melakuan fitur "laporkan" untuk penguna lain dan akan diproses secara lokal.
 
-### Jekyll Themes
+penguna yang mendapat notis laporan dalam jumlah tertentu akan otomatis menghapus akun yang digunakan dan tidak dapat diakses lagi, namun masih bisa membuat akun baru.
+      
+### Mengelola dan Menyimpan Informasi Anda
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smooth-home-production/chatA_end2end/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Anda tidak dapat melakukan perpindahan data atau mengunakan beberapa perangkat dengan akun yang sama.
 
-### Support or Contact
+Data anda akan terhapus setiap kali logout dan login dengan akun yang baru meskipun di perangkat yang sama.
+  
+### Undang-Undang, Hak dan Perlindungan Kami
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Kami mengakses, menjaga, dan membagikan informasi Anda seperti yang dijelaskan dalam bagian "Informasi yang Kami Kumpulkan" di Kebijakan Privasi di atas jika kami memiliki keyakinan dengan itikad baik, bahwa diperlukan untuk:
+
+* merespons sesuai dengan hukum atau peraturan yang berlaku, proses legal, atau permintaan pemerintah;
+* menegakkan Ketentuan kami dan ketentuan yang berlaku;
+* melindungi hak, properti, dan keselamatan pengguna kami.
+  
+### Pembaruan terhadap Kebijakan Kami
+
+Kami dapat mengubah atau memperbarui Kebijakan Privasi kami. Kami akan memberi Anda pemberitahuan tentang perubahan Kebijakan Privasi ini sebagaimana mestinya, dan memperbarui tanggal “Terakhir diubah” di bagian atas Kebijakan Privasi ini. Harap tinjau Kebijakan Privasi kami dari waktu ke waktu.
+  
